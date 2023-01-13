@@ -1,4 +1,2 @@
-# This is just for my self-studying
-##From w3school
-language: Python
-
+# This is just for my self-Python-studying
+From   w3school.com
